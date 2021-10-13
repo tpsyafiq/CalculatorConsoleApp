@@ -1,0 +1,10 @@
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
